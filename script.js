@@ -1,4 +1,4 @@
-const apiKey = 'LHZHPKBCEH4DGF42NZMQTVAUP';
+
 
 let searchInput = document.querySelector('#location-search');
 let locationName = document.querySelector('#location-name');
